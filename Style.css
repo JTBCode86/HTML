@@ -232,6 +232,12 @@ td, th{
 
 .imagem-beneficios{
     width: 60%;
+    opacity: 0.3;
+    transition: 400ms;
+}
+
+.imagem-beneficios:hover{
+    opacity: 1;
 }
 
 .video{
